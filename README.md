@@ -1,14 +1,17 @@
 # AquaDroid
 
-<img src="/fastlane/metadata/android/en-US/images/featureGraphic.png" width="90px">
+![image](https://user-images.githubusercontent.com/98334696/205437350-f0dd6149-3635-461d-b245-9834c7339a3a.png)
 
 AquaDroid simple android app to remind you to drink water and track your water intake habit
 
 ## ScreenShots
+![image](https://user-images.githubusercontent.com/98334696/205437367-35be81e0-c560-406e-9dd5-04248452211e.png)
 
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/1-Intro.png" width="250px"> <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/2-Edit.png" width="250px"> 
+![image](https://user-images.githubusercontent.com/98334696/205437333-461ed0f7-92ee-4419-86b5-ba0b1199ea95.png)
 
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/3-home.png" width="250px"> <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/4-Stats.png" width="250px"> 
+![image](https://user-images.githubusercontent.com/98334696/205437429-86e9e0c3-45a1-4112-82ca-d9f80992a490.png)
+
+
 
 ## Installation
 
