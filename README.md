@@ -1,4 +1,5 @@
-# AquaDroid
+# Water Remainder
+This application will track the water level of a person in his/her daily routine time for thier health pupose
 
 ![image](https://user-images.githubusercontent.com/98334696/205437350-f0dd6149-3635-461d-b245-9834c7339a3a.png)
 
